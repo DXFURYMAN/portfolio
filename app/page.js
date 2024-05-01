@@ -351,6 +351,55 @@ export default function Home() {
                 </button>
               </a>
             </div>
+                           <div className="flex-1 basis-1/3">
+              <a href="https://www.dmssecurity.in/">
+                <div className="transition-transform duration-300 transform rounded-lg shadow-xl hover:scale-105 keyb">
+                  <Image
+                    src={web10}
+                    alt="web10"
+                    className="object-cover w-full h-full overflow-hidden rounded-lg"
+                    width={"100%"}
+                    height={"100%"}
+                  />
+                </div>
+                <button className="inline-block p-2 mt-4 text-lg bg-orange-100 border shadow-lg rounded-xl border-cyan-800 font-burtons text-cyan-800">
+                  DMS.
+                </button>
+              </a>
+            </div>
+                          <div className="flex-1 basis-1/3">
+              <a href="https://vp-zeta.vercel.app/">
+                <div className="transition-transform duration-300 transform rounded-lg shadow-xl hover:scale-105 keyb">
+                  <Image
+                    src={web11}
+                    alt="web11"
+                    className="object-cover w-full h-full overflow-hidden rounded-lg"
+                    width={"100%"}
+                    height={"100%"}
+                  />
+                </div>
+                <button className="inline-block p-2 mt-4 text-lg bg-orange-100 border shadow-lg rounded-xl border-cyan-800 font-burtons text-cyan-800">
+                  VP.
+                </button>
+              </a>
+            </div>
+                        <div className="flex-1 basis-1/3">
+              <a href="chart-basic-app.vercel.app/">
+                <div className="transition-transform duration-300 transform rounded-lg shadow-xl hover:scale-105 keyb">
+                  <Image
+                    src={web12}
+                    alt="web12"
+                    className="object-cover w-full h-full overflow-hidden rounded-lg"
+                    width={"100%"}
+                    height={"100%"}
+                  />
+                </div>
+                <button className="inline-block p-2 mt-4 text-lg bg-orange-100 border shadow-lg rounded-xl border-cyan-800 font-burtons text-cyan-800">
+                  ChartApp
+                </button>
+              </a>
+            </div>
+
             <div className="basis-1/3 flex-1">
               <a href="https://vidhanvyrs.github.io/PackageMan/">
                 <div className="rounded-lg shadow-xl transform hover:scale-105 transition-transform duration-300 keyb">
