@@ -91,7 +91,7 @@ export default function Home() {
 
             <li>
               <a
-                href="https://drive.google.com/file/d/1OCOeiXHBzLX1cSSsyT4tWmwW9PHsjcj5/view?usp=sharing"
+                href="https://drive.google.com/file/d/1YqaoHZgVZweZOg5HIWe1C9Gea1MPpDKL/view?usp=drivesdk"
                 target="_blank"
                 className="font-burtons ease-in-out duration-300 bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-7 cursor-pointer"
                 id="new2"
